@@ -1,7 +1,7 @@
 {
-  "博客标题": "My new blog",
+  "博客标题": "新しいブログ",
   "博客描述（副标题）": "Hello, World!",
-  "网站语言": "English",
+  "网站语言": "日本語",
   "在菜单中添加归档和标签的入口": true,
   "在文章或页面的底部添加分享按钮，以便复制直链url": true,
   "静态资源": {
@@ -70,13 +70,13 @@
       "范围包括抖机灵分类下的一言": true
     }
   },
-  "底部信息（格式为markdown）": "©2022 My new blog. All rights reserved.",
+  "底部信息（格式为markdown）": "©2021 新しいブログ. All rights reserved.",
   "全站内容授权说明": "",
   "页面列表": [
     {
-      "页面标题": "About me",
+      "页面标题": "ブロガーについて",
       "是否显示在菜单中": true,
-      "若显示在菜单中，则在菜单中显示为": "About me",
+      "若显示在菜单中，则在菜单中显示为": "ブロガーについて",
       "是否在新标签页打开": false,
       "文件名": "about.md",
       "这是一个完整的html": false,
@@ -85,12 +85,12 @@
   ],
   "文章列表": [
     {
-      "文章标题": "My first article",
+      "文章标题": "最初の記事",
       "文件名": "first.md",
       "标签": [
-        "Automatically-created-article"
+        "自動作成された記事"
       ],
-      "摘要": "This is an article that is created automatically. You can edit it or delete it.",
+      "摘要": "自動的に作成される記事です。編集または削除できます。",
       "创建日期": "1970/1/1",
       "修改日期": "1970/1/1",
       "是否置顶": false,
