@@ -112,5 +112,6 @@
   "提供复制全文到剪贴板的选项": false,
   "网站域名（包括https://）":"",
   "在对文章列表进行修改后触发rss生成":false,
-  "在对文章或页面列表进行修改后触发sitemap.txt生成":false
+  "在对文章或页面列表进行修改后触发sitemap.txt生成":false,
+  "提高JSON文件的可读性": true
 }
