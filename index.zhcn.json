@@ -51,6 +51,10 @@
       "记录访问量": true,
       "评论区占位符（提示文字）": "",
       "评论者填写邮箱为qq邮箱时使用qq昵称和头像代替gravatar头像": true
+    },
+    "启用disqus评论": false,
+    "disqus设置": {
+      "shortname": ""
     }
   },
   "一言设置": {
