@@ -55,6 +55,10 @@
     "启用disqus评论": false,
     "disqus设置": {
       "shortname": ""
+    },
+    "启用waline评论": false,
+    "waline设置": {
+      "serverurl": ""
     }
   },
   "一言设置": {
