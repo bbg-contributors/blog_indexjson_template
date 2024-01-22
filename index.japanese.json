@@ -39,7 +39,22 @@
       "若将某个url作为背景图像，这个url是": ""
     },
     "禁用导航栏的阴影效果": false,
-    "链接颜色": "#0d6efd"
+    "链接颜色": "#0d6efd",
+    "是否启用live2d-widget": false,
+    "live2d-widget设置":{
+      "widget路径": "https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/",
+      "tips路径": "",
+      "api路径": "",
+      "功能设置": {
+        "hitokoto": true,
+        "asteroids": false,
+        "switch-model": false,
+        "switch-texture": false,
+        "photo": false,
+        "info": true,
+        "quit": true
+      }
+    }
   },
   "全局评论设置": {
     "启用valine评论": false,
