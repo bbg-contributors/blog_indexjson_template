@@ -115,8 +115,8 @@
         "Automatically-created-article"
       ],
       "摘要": "This is an article that is created automatically. You can edit it or delete it.",
-      "创建日期": "1970/1/1",
-      "修改日期": "1970/1/1",
+      "创建时间（时间戳）": 0,
+      "修改时间（时间戳）": 0,
       "是否置顶": false,
       "是否隐藏": false,
       "启用评论": true
