@@ -74,6 +74,10 @@
     "启用waline评论": false,
     "waline设置": {
       "serverurl": ""
+    },
+    "启用rustaline评论": false,
+    "rustaline设置": {
+      "serverurl": ""
     }
   },
   "一言设置": {
